@@ -6,4 +6,4 @@ Ultimatly I would like to have the ESP32 get time via the internet, and have the
 
 Again, first attemt at writing much more than "relay on at temp, off at temp" kinda simple stuff, so any input or links to items you feel can help me learn to get this done would be greatly appreciated. 
 
-Figured the first step for me was to get the home page done and branch out from there.... 
+Figured the first step for me was to get the home page done and branch out from there.... made that on https://htmlg.com/html-editor/ 
